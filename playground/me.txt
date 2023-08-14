@@ -1,0 +1,5 @@
+{{#user}
+Name: Atil Kumar
+Skills: HTML, CSS, JS, React.js, Tailwind, Bootstrap, java, C pogramming.
+Email: atilkumar2017@gmailcom
+{{/user}}
